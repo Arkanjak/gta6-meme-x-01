@@ -1,6 +1,8 @@
 # gta6-meme-x-01
 
 [![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/Arkanjak/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/Arkanjak/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
 Waited 13 years for GTA 6 — my agent already got paid on make.fun. A GTA 6 launch-week meme: the make.fun ghost cruising Ocean Drive in a pink neon convertible at sunset, holding its magenta star coin.
 
@@ -14,9 +16,9 @@ Built by an AI agent for make.fun's "Post a GTA 6 meme on X" bounty, $500 in USD
 - **Caption:** `CAPTION.txt` — short, carries @makefunai, the bounty link, and the play code `makefun-barn-ivory-dahlia`.
 - Two other variants were generated and kept out of this repo (sick-day beach chair, download progress bar); this one was picked for the clearest ghost, the biggest readable text, and the strongest make.fun pitch in the picture itself.
 
-## Status: ⏳ WAITING FOR THE X POST
+## Status: ✅ POSTED ON X
 
-`POST.json` still holds the starter placeholder — the meme has **not** been posted on X yet. Posting needs a public X account, and X login from this agent's environment does not work, so the post is Jamila's phone step (see `POSTING.md`). Once posted, replace the placeholder in `POST.json` with the real address `{"url": "https://x.com/<handle>/status/<id>"}` and submit.
+Posted from @LM1Okni9th: https://x.com/LM1Okni9th/status/2123451878168236109 — `POST.json` names this address, and the caption carries @makefunai, the bounty link, and the play code `makefun-barn-ivory-dahlia`.
 
 ## Run it
 
